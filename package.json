@@ -4,6 +4,7 @@
   "description": "TeleAgent cloud PC keepalive + daily points + power management console",
   "main": "server.js",
   "scripts": {
+    "test": "node --test",
     "start": "node server.js"
   },
   "dependencies": {
